@@ -1,0 +1,594 @@
+  1  Quercus_Agrifolia
+  2  Quercus_Afares
+  3  Acer_Circinatum
+  4  Castanea_Sativa
+  5  Alnus_Viridis
+  6  Quercus_x_Hispanica
+  7  Acer_Opalus
+  8  Eucalyptus_Glaucescens
+  9  Quercus_Variabilis
+ 10  Acer_Rufinerve
+ 11  Phildelphus
+ 12  Quercus_Pontica
+ 13  Quercus_Pubescens
+ 14  Alnus_Cordata
+ 15  Quercus_Alnifolia
+ 16  Quercus_Coccifera
+ 17  Populus_Grandidentata
+ 18  Quercus_Phillyraeoides
+ 19  Alnus_Sieboldiana
+ 20  Quercus_Palustris
+ 21  Quercus_Crassipes
+ 22  Quercus_Infectoria_sub
+ 23  Quercus_Chrysolepis
+ 24  Quercus_Rhysophylla
+ 25  Acer_Circinatum
+ 26  Quercus_Nigra
+ 27  Eucalyptus_Glaucescens
+ 28  Arundinaria_Simonii
+ 29  Liquidambar_Styraciflua
+ 30  Quercus_Nigra
+ 31  Quercus_Brantii
+ 32  Quercus_Pontica
+ 33  Prunus_Avium
+ 34  Quercus_Afares
+ 35  Acer_Palmatum
+ 36  Liriodendron_Tulipifera
+ 37  Alnus_Viridis
+ 38  Quercus_Castaneifolia
+ 39  Liriodendron_Tulipifera
+ 40  Tilia_Platyphyllos
+ 41  Acer_Rufinerve
+ 42  Ginkgo_Biloba
+ 43  Acer_Rufinerve
+ 44  Acer_Saccharinum
+ 45  Quercus_Palustris
+ 46  Quercus_Nigra
+ 47  Lithocarpus_Edulis
+ 48  Cornus_Controversa
+ 49  Tilia_Tomentosa
+ 50  Callicarpa_Bodinieri
+ 51  Alnus_Sieboldiana
+ 52  Acer_Pictum
+ 53  Quercus_Castaneifolia
+ 54  Tilia_Tomentosa
+ 55  Alnus_Viridis
+ 56  Quercus_x_Hispanica
+ 57  Quercus_Dolicholepis
+ 58  Ilex_Aquifolium
+ 59  Quercus_Agrifolia
+ 60  Zelkova_Serrata
+ 61  Rhododendron_x_Russellianum
+ 62  Quercus_Cerris
+ 63  Cercis_Siliquastrum
+ 64  Quercus_Coccinea
+ 65  Quercus_Hartwissiana
+ 66  Alnus_Maximowiczii
+ 67  Prunus_X_Shmittii
+ 68  Acer_Pictum
+ 69  Alnus_Sieboldiana
+ 70  Acer_Palmatum
+ 71  Quercus_Canariensis
+ 72  Quercus_Chrysolepis
+ 73  Eucalyptus_Neglecta
+ 74  Acer_Rubrum
+ 75  Fagus_Sylvatica
+ 76  Zelkova_Serrata
+ 77  Tilia_Oliveri
+ 78  Quercus_Variabilis
+ 79  Cotinus_Coggygria
+ 80  Alnus_Cordata
+ 81  Quercus_Crassipes
+ 82  Cytisus_Battandieri
+ 83  Quercus_Vulcanica
+ 84  Cornus_Macrophylla
+ 85  Acer_Circinatum
+ 86   Acer_Mono
+ 87  Cornus_Controversa
+ 88  Quercus_Trojana
+ 89  Magnolia_Salicifolia
+ 90  Cornus_Chinensis
+ 91  Prunus_X_Shmittii
+ 92  Salix_Intergra
+ 93  Cotinus_Coggygria
+ 94  Cercis_Siliquastrum
+ 95  Lithocarpus_Cleistocarpus
+ 96  Quercus_Cerris
+ 97  Morus_Nigra
+ 98  Ulmus_Bergmanniana
+ 99  Acer_Rubrum
+100  Salix_Fragilis
+101  Zelkova_Serrata
+102  Quercus_Rhysophylla
+103  Acer_Opalus
+104  Alnus_Rubra
+105  Fagus_Sylvatica
+106  Quercus_Variabilis
+107  Quercus_Brantii
+108  Viburnum_Tinus
+109  Quercus_Greggii
+110  Quercus_Phellos
+111  Tilia_Platyphyllos
+112  Tilia_Platyphyllos
+113  Quercus_Imbricaria
+114  Eucalyptus_Urnigera
+115  Acer_Rufinerve
+116  Rhododendron_x_Russellianum
+117  Quercus_Crassifolia
+118  Quercus_x_Turneri
+119  Acer_Platanoids
+120  Quercus_Chrysolepis
+121  Ilex_Cornuta
+122  Ilex_Cornuta
+123  Quercus_Crassifolia
+124  Betula_Pendula
+125  Tilia_Oliveri
+126  Cytisus_Battandieri
+127  Quercus_Agrifolia
+128  Acer_Rubrum
+129  Magnolia_Heptapeta
+130  Cornus_Controversa
+131  Cornus_Macrophylla
+132  Acer_Pictum
+133  Morus_Nigra
+134  Quercus_Crassipes
+135  Cornus_Macrophylla
+136  Viburnum_x_Rhytidophylloides
+137  Eucalyptus_Neglecta
+138  Eucalyptus_Urnigera
+139  Quercus_Infectoria_sub
+140  Quercus_Suber
+141  Olea_Europaea
+142  Quercus_Agrifolia
+143  Quercus_x_Hispanica
+144  Quercus_Dolicholepis
+145  Quercus_Crassifolia
+146  Quercus_Alnifolia
+147  Ulmus_Bergmanniana
+148  Quercus_Suber
+149  Olea_Europaea
+150  Viburnum_Tinus
+151  Ulmus_Bergmanniana
+152  Celtis_Koraiensis
+153  Quercus_Coccinea
+154  Liquidambar_Styraciflua
+155  Quercus_x_Hispanica
+156  Acer_Circinatum
+157  Crataegus_Monogyna
+158  Lithocarpus_Edulis
+159  Phildelphus
+160  Quercus_Kewensis
+161  Celtis_Koraiensis
+162  Quercus_Crassifolia
+163  Populus_Nigra
+164  Quercus_Semecarpifolia
+165  Cornus_Chinensis
+166  Quercus_Semecarpifolia
+167  Quercus_Kewensis
+168  Quercus_x_Turneri
+169  Quercus_Hartwissiana
+170  Viburnum_x_Rhytidophylloides
+171  Quercus_Pubescens
+172  Cercis_Siliquastrum
+173  Eucalyptus_Neglecta
+174  Cercis_Siliquastrum
+175  Alnus_Maximowiczii
+176  Alnus_Cordata
+177  Quercus_Coccifera
+178  Tilia_Tomentosa
+179  Cytisus_Battandieri
+180  Quercus_Imbricaria
+181  Arundinaria_Simonii
+182  Populus_Grandidentata
+183  Salix_Fragilis
+184  Quercus_Canariensis
+185  Phildelphus
+186  Acer_Pictum
+187  Cornus_Controversa
+188  Tilia_Tomentosa
+189  Magnolia_Salicifolia
+190  Pterocarya_Stenoptera
+191  Salix_Fragilis
+192  Quercus_Phellos
+193  Liriodendron_Tulipifera
+194  Alnus_Maximowiczii
+195  Quercus_Kewensis
+196  Ulmus_Bergmanniana
+197  Callicarpa_Bodinieri
+198  Sorbus_Aria
+199  Eucalyptus_Neglecta
+200  Quercus_Greggii
+201  Quercus_Shumardii
+202  Acer_Platanoids
+203  Quercus_Rubra
+204  Populus_Grandidentata
+205  Eucalyptus_Glaucescens
+206  Acer_Saccharinum
+207  Quercus_Rubra
+208  Salix_Intergra
+209  Populus_Adenopoda
+210  Salix_Fragilis
+211  Tilia_Oliveri
+212  Alnus_Sieboldiana
+213  Fagus_Sylvatica
+214  Quercus_Coccinea
+215  Acer_Capillipes
+216  Viburnum_Tinus
+217  Quercus_Nigra
+218  Ginkgo_Biloba
+219  Eucalyptus_Neglecta
+220  Quercus_Rubra
+221  Sorbus_Aria
+222  Quercus_Agrifolia
+223  Populus_Adenopoda
+224  Lithocarpus_Edulis
+225  Acer_Pictum
+226  Quercus_Crassifolia
+227  Pterocarya_Stenoptera
+228  Quercus_Coccifera
+229  Tilia_Tomentosa
+230  Quercus_Imbricaria
+231  Acer_Rubrum
+232  Rhododendron_x_Russellianum
+233  Salix_Intergra
+234  Quercus_Semecarpifolia
+235  Cotinus_Coggygria
+236  Lithocarpus_Cleistocarpus
+237  Callicarpa_Bodinieri
+238  Acer_Capillipes
+239  Quercus_Pyrenaica
+240  Cytisus_Battandieri
+241  Quercus_Nigra
+242  Quercus_Palustris
+243  Populus_Adenopoda
+244  Quercus_Nigra
+245  Ginkgo_Biloba
+246  Salix_Intergra
+247  Eucalyptus_Urnigera
+248  Quercus_Texana
+249  Ilex_Cornuta
+250  Magnolia_Heptapeta
+251  Quercus_Texana
+252  Viburnum_Tinus
+253  Prunus_X_Shmittii
+254  Quercus_Hartwissiana
+255  Quercus_Chrysolepis
+256  Quercus_Greggii
+257  Crataegus_Monogyna
+258  Quercus_Brantii
+259  Quercus_Castaneifolia
+260  Quercus_Phillyraeoides
+261  Acer_Saccharinum
+262  Quercus_x_Hispanica
+263  Quercus_Trojana
+264  Crataegus_Monogyna
+265  Eucalyptus_Urnigera
+266  Quercus_Ellipsoidalis
+267  Betula_Pendula
+268  Cornus_Chinensis
+269  Liriodendron_Tulipifera
+270  Quercus_Ellipsoidalis
+271  Alnus_Rubra
+272  Quercus_Rubra
+273  Liriodendron_Tulipifera
+274  Alnus_Viridis
+275  Cytisus_Battandieri
+276  Cotinus_Coggygria
+277  Quercus_Imbricaria
+278  Lithocarpus_Edulis
+279  Celtis_Koraiensis
+280  Quercus_Canariensis
+281  Quercus_Pyrenaica
+282  Quercus_Kewensis
+283  Quercus_Imbricaria
+284  Viburnum_x_Rhytidophylloides
+285  Quercus_Shumardii
+286  Populus_Adenopoda
+287  Tilia_Oliveri
+288  Quercus_Kewensis
+289  Cornus_Controversa
+290  Cercis_Siliquastrum
+291  Tilia_Tomentosa
+292  Quercus_Agrifolia
+293  Ilex_Aquifolium
+294  Quercus_Rhysophylla
+295  Alnus_Maximowiczii
+296  Alnus_Maximowiczii
+297  Viburnum_x_Rhytidophylloides
+298  Acer_Circinatum
+299  Quercus_Alnifolia
+300  Magnolia_Heptapeta
+301  Cornus_Macrophylla
+302  Quercus_Alnifolia
+303  Olea_Europaea
+304  Quercus_Trojana
+305   Acer_Mono
+306  Quercus_Phillyraeoides
+307  Viburnum_Tinus
+308  Quercus_Trojana
+309  Rhododendron_x_Russellianum
+310  Acer_Saccharinum
+311  Quercus_Ellipsoidalis
+312  Quercus_Afares
+313  Betula_Austrosinensis
+314  Lithocarpus_Edulis
+315  Quercus_x_Turneri
+316  Ulmus_Bergmanniana
+317  Acer_Opalus
+318  Liquidambar_Styraciflua
+319  Quercus_Trojana
+320  Quercus_Crassifolia
+321  Quercus_Coccinea
+322  Quercus_Coccifera
+323  Acer_Capillipes
+324  Quercus_Afares
+325  Quercus_Dolicholepis
+326  Lithocarpus_Edulis
+327  Tilia_Platyphyllos
+328  Quercus_Infectoria_sub
+329  Quercus_Kewensis
+330  Populus_Nigra
+331  Castanea_Sativa
+332  Populus_Nigra
+333  Tilia_Tomentosa
+334  Callicarpa_Bodinieri
+335  Acer_Capillipes
+336  Ilex_Aquifolium
+337  Salix_Fragilis
+338  Magnolia_Salicifolia
+339  Quercus_Dolicholepis
+340  Prunus_X_Shmittii
+341  Olea_Europaea
+342  Acer_Platanoids
+343  Fagus_Sylvatica
+344  Sorbus_Aria
+345  Quercus_Phillyraeoides
+346  Quercus_Alnifolia
+347  Alnus_Rubra
+348  Quercus_Vulcanica
+349  Crataegus_Monogyna
+350  Acer_Platanoids
+351  Populus_Grandidentata
+352   Acer_Mono
+353  Cornus_Chinensis
+354  Liquidambar_Styraciflua
+355  Phildelphus
+356  Acer_Platanoids
+357  Quercus_Shumardii
+358  Quercus_Rubra
+359  Quercus_Texana
+360  Acer_Pictum
+361  Quercus_Crassipes
+362  Magnolia_Heptapeta
+363  Phildelphus
+364  Ilex_Aquifolium
+365  Quercus_Kewensis
+366  Quercus_Cerris
+367  Quercus_Palustris
+368  Populus_Grandidentata
+369  Quercus_Coccinea
+370  Eucalyptus_Urnigera
+371  Quercus_Ilex
+372  Quercus_x_Hispanica
+373  Zelkova_Serrata
+374  Quercus_Trojana
+375  Salix_Intergra
+376  Quercus_Suber
+377  Quercus_Texana
+378  Alnus_Sieboldiana
+379  Quercus_Semecarpifolia
+380  Quercus_Cerris
+381  Quercus_Pyrenaica
+382  Pterocarya_Stenoptera
+383  Prunus_X_Shmittii
+384  Celtis_Koraiensis
+385  Quercus_Pontica
+386  Arundinaria_Simonii
+387  Ilex_Aquifolium
+388  Pterocarya_Stenoptera
+389  Salix_Fragilis
+390  Populus_Adenopoda
+391  Betula_Pendula
+392  Liquidambar_Styraciflua
+393  Alnus_Viridis
+394  Quercus_Castaneifolia
+395  Cornus_Controversa
+396  Ilex_Cornuta
+397  Populus_Adenopoda
+398  Ginkgo_Biloba
+399  Eucalyptus_Urnigera
+400  Liriodendron_Tulipifera
+401  Acer_Saccharinum
+402  Quercus_Phellos
+403  Fagus_Sylvatica
+404  Quercus_Crassipes
+405  Quercus_Afares
+406  Quercus_Texana
+407  Ilex_Cornuta
+408  Viburnum_Tinus
+409  Cornus_Chinensis
+410  Tilia_Oliveri
+411  Quercus_Phellos
+412  Alnus_Maximowiczii
+413  Castanea_Sativa
+414  Acer_Palmatum
+415  Quercus_x_Turneri
+416  Quercus_Agrifolia
+417  Quercus_Palustris
+418  Magnolia_Heptapeta
+419  Quercus_Variabilis
+420  Ginkgo_Biloba
+421  Quercus_Ilex
+422  Liriodendron_Tulipifera
+423  Morus_Nigra
+424  Quercus_Phillyraeoides
+425  Quercus_Shumardii
+426  Acer_Palmatum
+427  Crataegus_Monogyna
+428  Quercus_Infectoria_sub
+429  Viburnum_Tinus
+430  Celtis_Koraiensis
+431  Magnolia_Heptapeta
+432  Ilex_Cornuta
+433  Magnolia_Heptapeta
+434  Quercus_Cerris
+435  Quercus_Phillyraeoides
+436  Quercus_Pyrenaica
+437  Quercus_Variabilis
+438  Acer_Rubrum
+439  Quercus_Imbricaria
+440  Lithocarpus_Cleistocarpus
+441  Acer_Rufinerve
+442  Ulmus_Bergmanniana
+443  Quercus_Vulcanica
+444  Quercus_Dolicholepis
+445  Alnus_Cordata
+446  Quercus_Hartwissiana
+447  Morus_Nigra
+448   Acer_Mono
+449  Quercus_Pubescens
+450  Quercus_x_Hispanica
+451  Morus_Nigra
+452  Quercus_Alnifolia
+453  Acer_Opalus
+454  Pterocarya_Stenoptera
+455  Prunus_Avium
+456  Quercus_Pyrenaica
+457  Quercus_Alnifolia
+458  Tilia_Tomentosa
+459  Crataegus_Monogyna
+460  Rhododendron_x_Russellianum
+461  Quercus_Ellipsoidalis
+462  Populus_Grandidentata
+463  Magnolia_Heptapeta
+464  Quercus_Ilex
+465  Quercus_x_Turneri
+466  Quercus_Pubescens
+467  Quercus_Pontica
+468  Acer_Rubrum
+469  Quercus_Greggii
+470  Quercus_Hartwissiana
+471  Quercus_Rubra
+472  Quercus_Ellipsoidalis
+473  Quercus_Cerris
+474  Cercis_Siliquastrum
+475  Quercus_Crassipes
+476  Rhododendron_x_Russellianum
+477  Quercus_Dolicholepis
+478  Sorbus_Aria
+479  Quercus_Coccinea
+480  Quercus_Alnifolia
+481  Quercus_Pontica
+482  Arundinaria_Simonii
+483  Quercus_Vulcanica
+484  Tilia_Tomentosa
+485  Quercus_Ilex
+486  Quercus_Chrysolepis
+487  Quercus_Trojana
+488  Quercus_Texana
+489  Quercus_Phellos
+490  Quercus_Coccifera
+491  Quercus_Semecarpifolia
+492  Betula_Pendula
+493  Quercus_Imbricaria
+494  Quercus_Ilex
+495  Quercus_Chrysolepis
+496  Quercus_Rhysophylla
+497  Quercus_x_Hispanica
+498  Liquidambar_Styraciflua
+499  Callicarpa_Bodinieri
+500  Acer_Saccharinum
+501  Quercus_Canariensis
+502  Sorbus_Aria
+503  Quercus_Hartwissiana
+504  Castanea_Sativa
+505  Arundinaria_Simonii
+506  Alnus_Cordata
+507  Cornus_Macrophylla
+508  Quercus_Palustris
+509  Quercus_Kewensis
+510  Prunus_X_Shmittii
+511  Magnolia_Heptapeta
+512  Zelkova_Serrata
+513  Betula_Austrosinensis
+514  Castanea_Sativa
+515  Populus_Grandidentata
+516  Quercus_Pontica
+517  Acer_Platanoids
+518  Quercus_Suber
+519  Olea_Europaea
+520  Ilex_Cornuta
+521  Quercus_Coccinea
+522  Prunus_Avium
+523  Quercus_Vulcanica
+524  Eucalyptus_Glaucescens
+525  Quercus_Vulcanica
+526  Prunus_Avium
+527  Cotinus_Coggygria
+528  Cytisus_Battandieri
+529  Quercus_Coccifera
+530  Quercus_Infectoria_sub
+531  Quercus_Variabilis
+532  Viburnum_x_Rhytidophylloides
+533  Quercus_Ellipsoidalis
+534  Viburnum_x_Rhytidophylloides
+535  Quercus_Pyrenaica
+536  Quercus_Suber
+537  Quercus_x_Turneri
+538  Quercus_Rhysophylla
+539  Alnus_Sieboldiana
+540  Acer_Capillipes
+541  Eucalyptus_Glaucescens
+542  Morus_Nigra
+543  Alnus_Viridis
+544  Alnus_Rubra
+545  Ilex_Aquifolium
+546  Quercus_x_Hispanica
+547  Populus_Nigra
+548  Acer_Palmatum
+549  Acer_Palmatum
+550  Prunus_Avium
+551  Eucalyptus_Urnigera
+552  Castanea_Sativa
+553  Quercus_Coccifera
+554  Alnus_Sieboldiana
+555  Quercus_Rhysophylla
+556  Zelkova_Serrata
+557  Acer_Pictum
+558  Betula_Pendula
+559  Quercus_Phellos
+560  Quercus_Brantii
+561  Ginkgo_Biloba
+562  Quercus_Rhysophylla
+563  Magnolia_Salicifolia
+564  Quercus_Infectoria_sub
+565  Crataegus_Monogyna
+566  Tilia_Oliveri
+567  Betula_Austrosinensis
+568  Quercus_Ilex
+569  Magnolia_Heptapeta
+570  Alnus_Viridis
+571  Tilia_Platyphyllos
+572  Quercus_Shumardii
+573  Quercus_Brantii
+574  Populus_Nigra
+575  Cotinus_Coggygria
+576  Quercus_Afares
+577  Betula_Pendula
+578  Lithocarpus_Cleistocarpus
+579  Tilia_Platyphyllos
+580  Acer_Capillipes
+581  Celtis_Koraiensis
+582  Quercus_Canariensis
+583  Alnus_Cordata
+584  Sorbus_Aria
+585  Magnolia_Salicifolia
+586  Quercus_Suber
+587  Quercus_Brantii
+588  Callicarpa_Bodinieri
+589  Cytisus_Battandieri
+590  Acer_Circinatum
+591  Alnus_Rubra
+592  Quercus_Canariensis
+593  Quercus_Phillyraeoides
+594  Arundinaria_Simonii
